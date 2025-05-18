@@ -23,6 +23,7 @@
 
 1. تأكد من وجود الملف `DocRealestateSale.xlsx` في نفس مجلد الكود.
 2. شغّل الملف بهذا الأمر في التيرمنال:
+3. python3 ثم ضع اسم الملف
 
 ```bash
-python3 analysis.py
+python3 city-regions.py
